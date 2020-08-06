@@ -1,1 +1,1 @@
-echo $0 says hello
+echo $0 -- stub
